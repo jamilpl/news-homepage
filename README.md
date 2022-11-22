@@ -8,7 +8,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://jamilpl.github.io/news-homepage/)
 
 ### Built with
 
